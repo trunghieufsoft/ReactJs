@@ -1,0 +1,22 @@
+.background-login {
+    z-index: -99;
+    height: 100%;
+    width: 100%;
+    background: #ecf0f5;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.common {
+    height: auto;
+    min-height: 100%;
+}
+.w-20 {
+    width: 20%;
+}
+.w-70 {
+    width: 70%;
+}
+.mh-572px {
+    min-height: 572px;
+}
